@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Created-By: Cameron Kinnear
+Main-Class: com.program.main
